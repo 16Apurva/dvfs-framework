@@ -34,7 +34,8 @@ performance	        Prioritizes maximum performance
 powersave	          Prioritizes lower power consumption
 
 <img width="640" height="480" alt="freq_plot" src="https://github.com/user-attachments/assets/7c18d09b-b6f3-46e3-b0ac-4a340ea2d2e9" />
-
+<img width="640" height="480" alt="runtime_plot" src="https://github.com/user-attachments/assets/b1886492-d3a6-423b-864e-e278c1d21fa5" />
+<img width="640" height="480" alt="temp_plot" src="https://github.com/user-attachments/assets/c8a15303-39b9-4f99-ba86-0dc3f5a9be98" />
 
 #Metrics Collected
 Execution runtime
